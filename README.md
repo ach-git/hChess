@@ -15,3 +15,5 @@ $ py Main.py
 - [ ] Make it playable
 - [ ] Add bot with BIG brain
 - [ ] Fix/Optimize
+### Optinal:
+- [ ] Compile it into exe file
